@@ -1,3 +1,8 @@
-#mateusdecamposturkoco
-meu nome é mateus, tenho 16 anos. 
-Eu amo a aula de zumba mas amo mesmo a de programação de aplicativos
+x = 34 - 23
+y = "hello"
+z = 3.45
+if z == 3.45 or y == "hello":
+    x = x + 1
+    y = y + "world"
+print(x)
+print(y)
