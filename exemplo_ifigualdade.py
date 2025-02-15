@@ -5,3 +5,4 @@ if faturamento == custos:
     print('Igual')
 else:
     print('Não é igual')    
+
